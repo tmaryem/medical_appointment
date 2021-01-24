@@ -1,7 +1,8 @@
 Introduction 
 
-The goal of this project is to investigate and analyze a dataset of medical appointments collected from Brazil public hospitals. The data includes some attributes of patients and state if the patients showed up to their appointments or not. 
-The analysis will focus on finding the possible reasons behind showing or no showing of the patients to the medical appointments.  Using the descriptive statistics and Python, we will answer the following questions:
+	The goal of this project is to investigate and analyze a dataset of medical appointments collected from Brazil public hospitals. The data includes some attributes of patients and state if the patients showed up to their appointments or not. 
+
+	The analysis will focus on finding the possible reasons behind showing or no showing of the patients to the medical appointments.  Using the descriptive statistics and Python, we will answer the following questions:
 
 	- What's the percentage of patient that show up for their appointment?
 	- Does the gender affect the patient's show up?
@@ -15,7 +16,8 @@ The analysis will focus on finding the possible reasons behind showing or no sho
 
 Data Analysis Process
 
-To analyze the medical appointment no show, we will follow these main steps:
+	To analyze the medical appointment no show, we will follow these main steps:
+
 	- Data Wrangling.
 	- Exploratory Data Analysis (EDA).
 	- Data Visualizations.
